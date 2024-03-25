@@ -1,0 +1,21 @@
+
+1. What is the primary purpose of a database index?
+
+2. Explain the difference between a primary key and a foreign key in a database.
+
+3. What are the advantages and disadvantages of using a relational database management system (RDBMS)?
+
+4. Describe the difference between a clustered and a non-clustered index.
+
+5. How does normalization contribute to database design?
+
+6. What is a deadlock in the context of database transactions, and how can it be prevented?
+
+7. Explain the concept of database normalization and its different normal forms.
+
+8. What is the role of the SQL SELECT statement in database operations?
+
+9. Describe the ACID properties in the context of database transactions.
+
+10. How does the JOIN operation work in relational database systems?
+
